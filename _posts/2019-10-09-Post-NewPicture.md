@@ -10,7 +10,7 @@ People in the picture are:
 - Scott
 - Me
 
-[my favorite website](http://www.google.com)
+[my favorite website](http://www.fatiuo.github.io.com)
 
 kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
 kfajdskfajsdf sakd fjksad jfksdj fksdj f
