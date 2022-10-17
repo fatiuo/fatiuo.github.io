@@ -13,7 +13,7 @@ People in the picture are:
 
 
 
-[my favorite website]
+
 
 
 
