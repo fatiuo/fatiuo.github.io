@@ -10,7 +10,10 @@ People in the picture are:
 - Scott
 - Me
 
-[my favorite website](http://www.fatiuo.github.io.com
+
+
+
+[my favorite website]
 
 
 
