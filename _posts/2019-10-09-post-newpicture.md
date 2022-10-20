@@ -48,9 +48,9 @@ title: رمان دزیره
                                           ژولی کلاری همسر ژوزف بناپارت و خواهر دزیره.
 
 
-                                          اسکار اول فرزند دزیره و ولیعهد و پادشاه سوئد                                                                                                           
-                                              
- ### خرید کتاب 
+                                          اسکار اول فرزند دزیره و ولیعهد و پادشاه سوئد                                                                                                                                                        
+
+### خرید کتاب
 
 
 
@@ -62,4 +62,4 @@ title: رمان دزیره
 
 [def]: https://www.ketabrah.ir/%D8%B1%D9%85%D8%A7%D9%86-%D8%AF%D8%B2%DB%8C%D8%B1%D9%87/book/23030
 
-[def1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Ffidibo.com%2Fblog%2Fdesire-book-novel%2F&psig=AOvVaw2U1623nMb4mZ-opGoHzKp0&ust=1666377999469000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDnwIu87_oCFQAAAAAdAAAAABBf
+[def1]: https://dkstatics-public.digikala.com/digikala-reviews/1375635.jpg?x-oss-process=image/resize,w_960/quality,q_70
