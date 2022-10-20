@@ -4,11 +4,20 @@ author_profile: true
 permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
-modified: 9-14-2019
+modified: 10-20-2022
 comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [music](http:/incredibox/.com/)
+* [murmur][def]
 
 
+
+[def]: http:/asoftmurmur.com
+* [movie][def2]
+
+[def2]: https:/agoodmovietowatch.com
+* [funny][def3]
+
+[def3]: https:/thisismywebsitenow.com

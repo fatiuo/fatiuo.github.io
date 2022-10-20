@@ -4,7 +4,7 @@ author_profile: true
 permalink: /friends/
 title: My friends at iust university
 tags: [friends]
-modified: 4-10-2019
+modified: 10-20-2022
 comments: true
 ---
 
