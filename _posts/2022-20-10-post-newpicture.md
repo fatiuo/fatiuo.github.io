@@ -19,10 +19,13 @@ title: رمان دزیره
    
 ## خرید کتاب 
 
-   [link](https://www.ketabrah.ir/%D8%B1%D9%85%D8%A7%D9%86-%D8%AF%D8%B2%DB%8C%D8%B1%D9%87/book/23030)
+   [link][def]
 
   
 
 
 
 
+
+
+[def]: https://www.ketabrah.ir/%D8%B1%D9%85%D8%A7%D9%86-%D8%AF%D8%B2%DB%8C%D8%B1%D9%87/book/23030
