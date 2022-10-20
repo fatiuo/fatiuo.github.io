@@ -9,15 +9,15 @@ comments: false
 ---
 
 
-* [music](http:/incredibox/.com/)
+* [music](http://incredibox/.com/)
 * [murmur][def]
 
 
 
-[def]: http:/asoftmurmur.com
+[def]: http://asoftmurmur.com
 * [movie][def2]
 
-[def2]: https:/agoodmovietowatch.com
+[def2]: https://agoodmovietowatch.com
 * [funny][def3]
 
-[def3]: https:/thisismywebsitenow.com
+[def3]: https://thisismywebsitenow.com
