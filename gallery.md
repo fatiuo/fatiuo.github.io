@@ -20,7 +20,7 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
   - url: /assets/images/OIP(1).jpg
-    image_path: "C:\gittest\fatiuo.github.io\assets\images\OIP (1).jpg"
+    image_path: C:\gittest\fatiuo.github.io\assets\images\OIP (1).jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
   - url: /assets/images/OIP(3).jpg
