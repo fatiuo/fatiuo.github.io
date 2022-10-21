@@ -9,9 +9,9 @@ comments: false
 ---
 
 
-|           | **Current**                    |
+|           | ****                    |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2019|| **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
 |----|------|--------------------------------|
