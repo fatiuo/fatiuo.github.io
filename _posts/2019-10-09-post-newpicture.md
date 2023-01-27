@@ -1,6 +1,6 @@
 ---
 layout: book
-title: رمان دزیره
+title: dezire 
 --- 
 
 # معرفی رمان  
